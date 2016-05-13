@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+    <string name="submitBtnLabel">Add</string>
+    <string name="addItemBtnLabel">Add Item</string>
+    <string name="tvEditLabel">Edit Item Below</string>
+    <string name="btnEditSaveLabel">Save</string>
+</resources>
